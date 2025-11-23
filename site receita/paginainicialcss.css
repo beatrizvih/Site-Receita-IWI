@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F2D3C7;
+}
+body {
+  background-color: #f5e9dc; /* bege claro de fundo */
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 40px;
+}
+
+.banner-chocolate {
+  background-color: #4e1f1f; 
+  border-radius: 35px;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: auto;
+  height: 55px;
+}
+.icone img{
+  width: 45px;  
+  height: auto; 
+  margin-left: auto;
+  display: block;
+
+}
+
+.texto-banner {
+  font-size: 28px;
+  color: #fce8d8; 
+}
