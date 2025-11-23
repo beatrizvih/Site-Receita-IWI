@@ -19,7 +19,7 @@ body {
   padding: 10px 20px;
   display: flex;
   align-items: center;
-  max-width: 600px;
+  max-width: 800px;
   margin: auto;
   height: 55px;
 }
@@ -35,3 +35,29 @@ body {
   font-size: 28px;
   color: #fce8d8; 
 }
+
+.caixinha1{
+  flex: 2;
+  background-color: #4e1f1f;
+  border-radius: 32px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 650px;
+  max-width: 90%;
+  height: 350px;
+  margin: 0 auto;
+  margin-top: 50px;
+
+}
+
+.caixinha1 h3 {
+  color: #fce8d8;
+  font-size: 29px;
+  margin-bottom: 15px;
+  text-align: center;
+  margin-top: 0px;
+}
+
