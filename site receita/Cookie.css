@@ -1,4 +1,77 @@
 body {
     background-color: #F2D3C7;
+}
+.banner-Cookie {
+  background-color: #4e1f1f; 
+  border-radius: 35px;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  max-width: 800px;
+  margin: auto;
+  height: 55px;
+}
+.texto {
+  font-size: 28px;
+  color: #fce8d8;
+}
+.caixinha{
+  flex: 2;
+  background-color: #4e1f1f;
+  border-radius: 32px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 650px;
+  max-width: 90%;
+  height: 480px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.caixinha h2  {
+ color: #fce8d8;
+ font-size: 20px;
+ text-align: center;
+}
+.caixinha ul {
+ color: #fce8d8;
+ margin-top: 15px;
+ font-size: 18px;
+ line-height: 1.6;
+}
+.caixinha h4 {
+ color: #fce8d8;
+ font-size: 20px;
+ margin-top: 15px;
+ text-align: center;
+}
+.caixinha2 {
+ flex: 2;
+ background-color: #4e1f1f;
+ border-radius: 32px;
+ box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+ padding: 25px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ width: 650px;
+ max-width: 90%;
+ height: 850px;
+ margin: 0 auto;
+ margin-top: 50px;
+}
+.caixinha2 h4 {
+ color: #fce8d8;
+ font-size: 20px;
+ margin-top: 5px;
+ text-align: center;
+}
 
+.caixinha2 ol {
+ color: #fce8d8;
+ margin-top: 15px;
+ font-size: 18px;
+ line-height: 1.6;
 }
